@@ -1,3 +1,4 @@
+track name=KO_downreg_narrow description="Downregulated narrow peaks in KO"
 1	629300	630066	8	0	.
 10	38526907	38529791	6647	0	.
 10	41910706	41912423	6945	0	.
