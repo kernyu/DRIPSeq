@@ -1,3 +1,4 @@
+track name=KO_downreg description="Downregulated peaks in KO"
 1	10004	15725	1	0	.
 1	181755	186533	3	0	.
 1	432940	433314	7	0	.
