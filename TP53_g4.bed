@@ -1,4 +1,4 @@
-track name=TP53_G4 description="TP53 G quadruplex regions" useScore=1
+track name=TP53_G4 description="TP53 G quadruplex regions"
 17	7684470	7684515	.	0	.
 17	7684851	7684879	.	0	.
 17	7691377	7691425	.	0	.
