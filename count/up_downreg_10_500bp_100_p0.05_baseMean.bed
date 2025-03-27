@@ -1,3 +1,4 @@
+track name=TP53_downreg_sliding_window description="Downregulated peaks in TP53 Het KO"
 chr1	182900	183400	.	0	.
 chr1	628600	635300	.	0	.
 chr1	788100	793100	.	0	.
