@@ -1,4 +1,4 @@
-track name=HET_downreg description="Downregulated regions in Heterozygous KO"
+track name=HET_downreg_f1.5_median description="Downregulated regions in Heterozygous KO, p 0.05 f 1.5 median count filtering"
 chr1	629000	631000	.	0	.
 chr1	911500	912000	.	0	.
 chr1	974000	974500	.	0	.
