@@ -1,4 +1,4 @@
-track name=HET_upreg description="Upregulated regions in Heterozygous KO"
+track name=HET_upreg_f1.5_median description="Upregulated regions in Heterozygous KO, p 0.05 f 1.5 median count filtering"
 chr1	1098500	1099000	.	0	.
 chr1	1233500	1234500	.	0	.
 chr1	1235000	1235500	.	0	.
