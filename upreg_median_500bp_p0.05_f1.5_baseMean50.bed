@@ -1,3 +1,4 @@
+track name=HET_upreg_f1.5 description="Upregulated peaks in Heterozygous samples"
 chr1	1098500	1099000	2198	0	.
 chr1	1235000	1235500	2471	0	.
 chr1	1651500	1652000	3304	0	.
