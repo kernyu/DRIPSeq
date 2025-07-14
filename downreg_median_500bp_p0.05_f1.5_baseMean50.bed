@@ -1,3 +1,4 @@
+track name=HET_downreg_f1.5 description="Downregulated peaks in Heterozygous samples"
 chr1	629000	629500	1259	0	.
 chr1	629500	630000	1260	0	.
 chr1	630000	630500	1261	0	.
